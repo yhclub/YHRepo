@@ -22,7 +22,7 @@ YHOnePaySDK是由易惠科技有限公司研发部开发的聚合支付SDK，称
 V2.1.0修改点：YHOnePaySDK.h对外提供服务，YHOnePayConfig.h提供配置修改，YHOnePayTheme提供主题风格色调修改。
 修改YHOnePayTheme中颜色的命名;
 修改导航栏样式的修改；
-修复银联云闪付APP支付bug
+修复银联云闪付APP支付bug;
                        DESC
 
   s.homepage         = 'http://120.42.37.94:9999/showdoc-master/web/#/page/1161'
