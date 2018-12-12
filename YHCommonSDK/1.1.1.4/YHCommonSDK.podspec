@@ -35,7 +35,7 @@ Pod::Spec.new do |s|
   s.dependency 'YHAlertSDK' ,       '~> 1.0'    #1.0.3
   s.dependency 'YHBaseSDK'  ,       '~> 1.1'    #1.1.5
   s.dependency 'YHUtiliitiesSDK' ,  '~> 1.0'    #1.0.2
-  s.dependency 'YHEnDecriptionSDK' ,'~> 2.0'    #2.0.4
+  s.dependency 'YHEnDecriptionSDK' ,'~> 1.1.0'    #2.0.4
 
 
 end
