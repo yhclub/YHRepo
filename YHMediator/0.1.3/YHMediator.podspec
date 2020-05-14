@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
   V0.1.1:初始化,去掉YYKit;
   V0.1.2:加入needAuth;
-  V0.1.3:支持主工程moduleconfig.plist;
+  V0.1.3:支持主工程moduleconfig.plist; 
                        DESC
 
   s.homepage         = 'http://gitlab.ylzpay.com/ios/ios_component/YHMediator.git'
