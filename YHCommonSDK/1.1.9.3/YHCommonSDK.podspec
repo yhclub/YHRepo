@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   # }
 
 #  s.public_header_files = 'Pod/Classes/**/*.h'
-  s.private_header_files = 'YHCommonSDK/Classes/base/view/pullrefresh/YHPullRefreshHeader.h'
+#  s.private_header_files = 'YHCommonSDK/Classes/base/view/pullrefresh/YHPullRefreshHeader.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'Reachability',      '~> 3'    #3.2
   s.dependency 'AFNetworking',      '~> 4'    #3.2.1
