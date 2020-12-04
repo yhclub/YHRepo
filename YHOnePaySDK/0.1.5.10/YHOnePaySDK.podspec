@@ -29,9 +29,7 @@ DESC
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jagtu' => '42318168@qq.com' }
   s.platform         = :ios, "8.0"
-  #s.source           = { :svn => 'https://120.42.37.94:2443/svn/APP/iOS/YHComponent/YHOnePaySDK', :tag => s.version.to_s }
-  
-  s.source           = { :git => 'ssh://git@gitlab.ylzpay.com:2222/ios/ios_component/YHOnePaySDK.git', :branch => 'feature/1.5.4'}
+  s.source           = { :svn => 'https://120.42.37.94:2443/svn/APP/iOS/YHComponent/YHOnePaySDK', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
