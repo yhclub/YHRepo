@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yhkj' => 'yhkj_xm@163.com' }
-  s.source           = { :git => 'ssh://git@gitlab.ylzpay.com:2222/ios/ios_component/YHCommonSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@gitlab.ylzpay.com:ios/ios_component/YHCommonSDK.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
   s.prefix_header_file = 'YHCommonSDK/Classes/YHCommon.pch'

@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jagtu' => '42318168@qq.com' }
-  s.source           = { :git => 'ssh://git@gitlab.ylzpay.com:2222/ios/ios_component/YHGestureUnlockSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@gitlab.ylzpay.com:ios/ios_component/YHGestureUnlockSDK.git', :tag => s.version.to_s }
   s.resources = 'YHGestureUnlockSDK/Assets/*.{bundle}'
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

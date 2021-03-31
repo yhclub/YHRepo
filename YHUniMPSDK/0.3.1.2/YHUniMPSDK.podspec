@@ -25,7 +25,7 @@ YHUniMPSDK, 封装了uni小程序SDK，版本号后3位与官方SDK版本对应
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yhkj_xm@163.com' => 'ljt' }
-  s.source           = { :git => 'ssh://git@gitlab.ylzpay.com:2222/ios/ios_component/YHUniMPSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@gitlab.ylzpay.com:ios/ios_component/YHUniMPSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   
   s.ios.deployment_target = '9.0'

@@ -37,7 +37,7 @@ V1.1.10 兼容中间件调用规则,支持1.1.7版本的YHCommonSDK
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'XmYhkj' => 'yhkj_xm@163.com' }
-  s.source           = { :git => 'ssh://git@gitlab.ylzpay.com:2222/ios/ios_component/YHHealthToolSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@gitlab.ylzpay.com:ios/ios_component/YHHealthToolSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

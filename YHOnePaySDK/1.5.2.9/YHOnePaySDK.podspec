@@ -29,7 +29,7 @@ DESC
   s.platform         = :ios, "8.0"
   #s.source           = { :svn => 'https://120.42.37.94:2443/svn/APP/iOS/YHComponent/YHOnePaySDK', :tag => s.version.to_s }
   
-  s.source           = { :git => 'ssh://git@gitlab.ylzpay.com:2222/ios/ios_component/YHOnePaySDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@gitlab.ylzpay.com:ios/ios_component/YHOnePaySDK.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 

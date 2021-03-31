@@ -18,7 +18,7 @@ TODO: 国家医保混合支付SDK，支持线上移动医保结算
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liaojiangtu' => '42318168@qq.com' }
-  s.source           = { :git => 'ssh://git@gitlab.ylzpay.com:2222/ios/hsa/HSAMPaySDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@gitlab.ylzpay.com:ios/hsa/HSAMPaySDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   
   s.ios.deployment_target = '9.0'
