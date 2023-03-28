@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YHEHCCommonBase'
   s.version          = '3.7.8'
-  s.summary          = 'A short description of YHEHCCommonBase.'
+  s.summary          = 'YHEHCCommonBase. 健康西城项目的Base'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
