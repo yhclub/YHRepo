@@ -39,7 +39,7 @@ V1.1.14 更新本地缓存加密
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'XmYhkj' => 'yhkj_xm@163.com' }
-  s.source           = { :git => 'git@gitlab.ylzpay.com:ios/ios_component/YHHealthToolSDK.git', :tag => 1.1.14 }
+  s.source           = { :git => 'git@gitlab.ylzpay.com:ios/ios_component/YHHealthToolSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
